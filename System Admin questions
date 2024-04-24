@@ -1,1 +1,21 @@
+Q1.What is Active Directory?
+A1. 
 
+Q2. What is DHCP?
+A2.  Dynamic Host Configuration Protocol is a network management protocol used on Internet Protocol networks for automatically assigning IP addresses.
+
+Q3. What is IaaS?
+A3. Infrastructure as a service is a cloud computing service model - Providers like AWS give you free pre-configured machines. This service enables users to free themselves from maintaining an on-premises data centre.
+
+Q4. What is LDAP?
+A4.The Lightweight Directory Access Protocol is an industry-standard application protocol for accessing and maintaining distributed directory information services over an Internet Protocol network.
+
+Q5.What is IAM?
+A5. Identity and access management is a framework of policies and technologies to ensure that the right users access technology resources appropriately.There are three different types of IAM - Basic, Predefined and Custom.
+
+Q6. Difference between IaaS and PaaS
+A6. Iaas - Raw computing, Storage and Network Capabilities
+PaaS - We have to manage software.
+SaaS - Just using the software
+
+Q7. 
