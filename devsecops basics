@@ -1,0 +1,3 @@
+Q1. What are contianers? What is Kubernetes?
+A1. The idea of Containers is to give independent workload scalibility. It is a invisible box around your code and dependencies. 
+Kubernetes : It is used to manage the containers and services. It is a set of API which can deploy containers on set of nodes called a clusters. 
