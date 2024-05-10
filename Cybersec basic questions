@@ -65,7 +65,7 @@ Q16.What is containerization?
 A16. Containerization is a method of packaging, distributing, and running applications and their dependencies in isolated environments called containers. These containers encapsulate everything an application needs to run, including libraries, dependencies, and configuration files, ensuring consistency and reliability across different environments.
 
 Q17.What is VLAN? How it works?
-A17. VLAN- VLAN (Virtual Local Area Network) is a logical segmentation of a network that allows the grouping of devices into separate broadcast domains, even if they are physically connected to the same network switch.VLANs work by assigning VLAN membership to network devices based on criteria such as port, MAC address, or protocol, and then tagging frames with VLAN identifiers to ensure proper routing and isolation."
+A17. VLAN- VLAN (Virtual Local Area Network) is a logical network segmentation that allows the grouping of devices into separate broadcast domains, even if they are physically connected to the same network switch.VLANs work by assigning VLAN membership to network devices based on criteria such as port, MAC address, or protocol, and then tagging frames with VLAN identifiers to ensure proper routing and isolation."
 
 Q18.What is RAID, and what are its different levels?
 RAID, which stands for Redundant Array of Independent Disks, is a data storage technology that combines multiple physical disk drives into a single logical unit for data redundancy, performance improvement, or both.
@@ -77,13 +77,22 @@ RAID 6 Striping with Dual Parity
 RAID 50 and RAID 60 combination of RAID 5, RAID 0, RAID 6 and RAID 0. 
 
 Q19. What is defense in depth?
-A19. Defence in Depth is a cybersecurity strategy that involves implementing multiple layers of security controls and measures to protect computer systems, networks, and data from potential threats.
+A19. Defence in Depth is a cybersecurity strategy that involves implementing multiple security controls and measures to protect computer systems, networks, and data from potential threats.
 
 Q20.Proper Sequence of TCP 3-way handshake?
 A20.  SYN, SYN-ACK, ACK
 
 Q21. What is your experience with designing and implementing IT infrastructure solutions? -- If you are a student 
-A21. I have gained practical experience in designing and implementing IT infrastructure solutions, particularly through virtualization platforms like VirtualBox. I have created and configured virtual machines running Linux and Windows operating systems to simulate various network environments for cybersecurity projects and exercises.
+A21. I have gained practical experience designing and implementing IT infrastructure solutions, particularly through virtualization platforms like VirtualBox. I have created and configured virtual machines running Linux and Windows operating systems to simulate various network environments for cybersecurity projects and exercises.
 
+
+Q22. OSI layers and Devices and protocols? 
+A22. Physical -- Hubs, repeaters, modems, cables, transceivers.
+Data Link -- Switch, bridges, Wireless Access Points  MAC
+Network Layer - routers, layer 3 switches, Network Firewalls.
+Transportation -- Load Balancer, IDS Protocols: TCP, UDP, 
+Session -- Protocols: RPC, SSL, ATP, NetBIOS
+Presentation -- GIF, JPEG, SSH, PNG
+Application -- Protocols: SMTP, HTTP, FTP, Telnet, SNMP 
 
 
