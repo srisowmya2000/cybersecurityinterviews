@@ -96,3 +96,27 @@ Presentation -- GIF, JPEG, SSH, PNG
 Application -- Protocols: SMTP, HTTP, FTP, Telnet, SNMP 
 
 
+Q23. Explain CIA 
+A23. Confidentiality, Integrity and Availability.Ensuring the data is secure and authorised users can access information. 
+Integrity: Data accuracy. Hash values, checksum.
+Availability: Only authorised users can access information and resources needed. 
+
+
+Q24. What is a firewall and what are its functions? 
+A24.firewall is a network layer device used to filter traffic. It examines incoming and outgoing traffic based on predefined security rules, allowing legitimate traffic and blocking suspicious activity. 
+
+Q25. What is a VPN? How do you configure a VPN for secure communication?
+A25.Virtual private network. It allows users to connect to resources remotely and securely.
+Configuration: 
+1. setup VPN server 
+2. Also set up VPN Client- configure VPN client on remote devices. 
+3. define access control on what users can access in the network. 
+
+Q26. How to set up IDS/IPS?
+A26.
+
+Q27. Different types of firewalls?
+A27. 1. Stateful, stateless firewall 
+      2. Packet filtering 
+
+Q28. 
